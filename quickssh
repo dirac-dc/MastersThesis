@@ -1,0 +1,10 @@
+#!/bin/bash
+# A simple script
+
+#ssh into shell
+sshpass -p "Elementaryeight%" ssh -o StrictHostKeyChecking=no dc5215@shell1.doc.ic.ac.uk -t 'ssh dc5215@graphic20.doc.ic.ac.uk -t "source ~/.bashrc; cd /vol/bitbucket/dc5215;bash -i";' 
+
+
+
+
+
