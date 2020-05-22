@@ -1,3 +1,3 @@
 # Masters Thesis
 
-Outputs were stored on an Imperial server.
+Outputs and model runs were initiated/created on Imperial servers.
